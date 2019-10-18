@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeneethei.katzenbetreuung-mobil.de/sitemap.xml
